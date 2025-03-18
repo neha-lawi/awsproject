@@ -86,4 +86,4 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 
 #custom constant
 // define('URL','http://localhost/awsproject');
-define('URL','http://3.83.11.187/');
+define('URL','http://3.83.11.187');
